@@ -1,7 +1,6 @@
 {
     "name": "edev/hello-world",
     "type": "library",
-    "license": "MIT",
     "authors": [
         {
             "name": "Eva C",
