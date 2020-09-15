@@ -1,8 +1,8 @@
 <?php
 
-namespace edev\helloWorld;
+namespace edev\HelloWorld;
 
-class say
+class Say
 {
 	public function test($msg = "Hello World!")
 	{
