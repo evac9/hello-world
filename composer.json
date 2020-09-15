@@ -1,0 +1,16 @@
+{
+    "name": "edev/hello-world",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eva C",
+            "email": "xavey2@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"edev\\helloWorld\\": "src/"}
+    },
+    "require": {}
+}
