@@ -6,6 +6,6 @@ class Say
 {
 	public function test($msg = "Hello World!")
 	{
-		return $msg;
+		return date("Y.m.d") . "--" . $msg;
 	}
 }	
